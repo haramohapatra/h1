@@ -22,5 +22,5 @@ steps:
     goals: 'package'
 - task: UseJava@1
   inputs:
-    version: '11'
+    version: '21'
     architecture: 'x64'
